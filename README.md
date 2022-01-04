@@ -1,2 +1,1 @@
-# GTPS3 Source Leaked by Tootle
- This is the GTPS3 Source that Sebia is selling. Leaked by Tootle
+I (tootle) apologise if this was worth a lot to any of you, and yes this is not Sebia's work since although its worth a lot it's the old GTPS3 source.
